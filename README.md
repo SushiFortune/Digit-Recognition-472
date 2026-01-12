@@ -23,8 +23,8 @@ The project workflow includes:
 ## Setup, Installation and Execution
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/SushiFortune/Digit-Recognition-472>
-   cd <repository-folder>
+   git clone https://github.com/SushiFortune/Digit-Recognition-472
+   cd digitrec472
 
 2. **Install dependencies**
     ```bash
