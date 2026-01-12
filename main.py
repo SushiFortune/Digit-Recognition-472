@@ -1,6 +1,6 @@
 # Team Members : Rania,Aasiya & Uroosa 
 
-# ***************Mini Project 1**********************
+# ***************Project 1**********************
 """
 **This program performs handwritten digit recognition
 using Logistic Regression. It uses the digits dataset from Scikit-learn,
